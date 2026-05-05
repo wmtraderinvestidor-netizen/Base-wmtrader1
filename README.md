@@ -5,3 +5,4 @@ Deployed simple smart contract on Base
 First interaction with contract function
 Updated contract value through transactions
 Testing contract behavior over time
+Monitoring contract interactions on Base network
