@@ -6,3 +6,4 @@ First interaction with contract function
 Updated contract value through transactions
 Testing contract behavior over time
 Monitoring contract interactions on Base network
+Continued testing smart contract functions
