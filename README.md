@@ -8,3 +8,4 @@ Testing contract behavior over time
 Monitoring contract interactions on Base network
 Continued testing smart contract functions
 Reviewing contract performance
+Final tests on deployed contract
